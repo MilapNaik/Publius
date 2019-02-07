@@ -1,0 +1,5 @@
+secrets.json
+graphs/
+*.pyc
+*.csv
+*.log
